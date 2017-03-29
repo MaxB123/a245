@@ -1,0 +1,11 @@
+f(x)= a*sin(b*x+c)**2/((b*x+c)**2)+d
+
+a=34
+b               = 1.30469          +/- 0.03513      (2.692%)
+c               = -46.6254         +/- 1.256        (2.693%)
+d=0.1
+
+degrees of freedom    (FIT_NDF)                        : 29
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 72.7011
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5285.45
+p-value of the Chisq distribution (FIT_P)              : 0

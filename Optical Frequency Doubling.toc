@@ -1,0 +1,40 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {section}{\numberline {2}Theory}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Diode Laser}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Generation of Harmonics by Nonlinearities}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Birefringence and Retardation Plates}{6}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Phase Matching}{6}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Gaussian Beams}{6}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Determination of Wavelengths with Gratings}{7}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}Michelson Interferometer}{7}{subsection.2.7}
+\contentsline {section}{\numberline {3}Experimental Set-Up and Measurements}{7}{section.3}
+\contentsline {subsection}{\numberline {3.1}Diode Laser and Power Measurement}{7}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Laser Output Power vs. Injection Current}{7}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Calibration of the variable Attenuator}{7}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}Focussing the Laser Beam into the Crystal and Optimizing the Harmonic Power}{8}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Optimization of Second Harmonic Power}{8}{subsubsection.3.2.1}
+\contentsline {subsection}{\numberline {3.3}Properties of Second-Harmonic Generation}{8}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Harmonic Power vs. Crystal Temperature}{8}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Harmonic Power vs. Fundamental Power}{9}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}Harmonic Power vs. Polarization of Fundamental Wave}{9}{subsubsection.3.3.3}
+\contentsline {subsection}{\numberline {3.4}Comparison of the Wavelengths of Fundamental and Harmonic Waves}{9}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}Diffraction grating}{9}{subsubsection.3.4.1}
+\contentsline {subsection}{\numberline {3.5}Interferometric Comparison using Michelson Interferometer}{9}{subsection.3.5}
+\contentsline {section}{\numberline {4}Analysis}{10}{section.4}
+\contentsline {subsection}{\numberline {4.1}Diode Laser and Power Measurement}{10}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Laser Output Power vs. Injection Current}{10}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Calibration of the variable Attenuator}{12}{subsubsection.4.1.2}
+\contentsline {subsection}{\numberline {4.2}Focussing the Laser Beam into the Crystal and Optimizing the Harmonic Power}{13}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Optimization of Second Harmonic Power}{13}{subsubsection.4.2.1}
+\contentsline {subsection}{\numberline {4.3}Properties of Second-Harmonic Generation}{13}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Harmonic Power vs. Crystal Temperature}{13}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}Harmonic Power vs. Fundamental Power}{13}{subsubsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.3}Harmonic Power vs. Polarization of Fundamental Wave}{13}{subsubsection.4.3.3}
+\contentsline {subsection}{\numberline {4.4}Comparison of the Wavelengths of Fundamental and Harmonic Waves}{13}{subsection.4.4}
+\contentsline {subsubsection}{\numberline {4.4.1}Diffraction grating}{13}{subsubsection.4.4.1}
+\contentsline {subsection}{\numberline {4.5}Interferometric Comparison using Michelson Interferometer}{13}{subsection.4.5}
+\contentsline {section}{\numberline {5}Conclusion}{13}{section.5}
+\contentsline {section}{\numberline {6}Appendix}{13}{section.6}
+\contentsline {subsection}{\numberline {6.1}Diode Laser and Power Measurement}{13}{subsection.6.1}
+\contentsline {subsubsection}{\numberline {6.1.1}Laser Output Power vs. Injection Current}{13}{subsubsection.6.1.1}

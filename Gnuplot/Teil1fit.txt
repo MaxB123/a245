@@ -1,0 +1,9 @@
+f(x)= a*x+b
+
+a               = 0.564338         +/- 0.003163     (0.5606%)
+b               = -30.7586         +/- 0.566        (1.84%)
+
+degrees of freedom    (FIT_NDF)                        : 22
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 2.14557
+variance of residuals (reduced chisquare) = WSSR/ndf   : 4.60346
+p-value of the Chisq distribution (FIT_P)              : 3.85703e-012

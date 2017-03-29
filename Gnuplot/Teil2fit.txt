@@ -1,0 +1,11 @@
+f(x)= a*cos(b*x+c)**2+d
+
+a               = 203.249          +/- 2.168        (1.067%)
+b               = 1.99689          +/- 0.002643     (0.1323%)
+c               = -0.855565        +/- 0.005937     (0.6939%)
+d               = 0.72887          +/- 0.04766      (6.54%)
+
+degrees of freedom    (FIT_NDF)                        : 76
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 1.23999
+variance of residuals (reduced chisquare) = WSSR/ndf   : 1.53758
+p-value of the Chisq distribution (FIT_P)              : 0.00181525
